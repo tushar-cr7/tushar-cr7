@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi 👋, I'm Tushar
 
-<!--
-**tushar-cr7/tushar-cr7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (Core) student  
+💻 Interested in Computer Technologies 
+📘 Currently completed 3rd semester  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 Skills
+- Programming: Java, C++, Python, C, SQL
+- Core CS: Data Structures, OOPS, DBMS
+- Tools: Git, GitHub
+
+---
+
+## 🔹 What I'm Doing Now
+- Practicing Data Structures & Algorithms
+- Building mini projects in Java
+- Improving problem-solving skills
+
+---
+
+## 🔹 Projects
+- Java Finance Tracker
+- Campus Apex 
+
+---
+
+## 🔹 Goals
+- Strengthen core CS fundamentals
+- Learn more about computer science
+- Prepare for internships & placements
+
+---
+
+📫 Connect with me:  
+GitHub: https://github.com/tushar-cr7

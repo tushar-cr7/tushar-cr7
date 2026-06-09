@@ -2,7 +2,7 @@
 
 🎓 B.Tech CSE (Core) student  
 💻 Interested in Computer Technologies 
-📘 Currently completed 3rd semester  
+📘 Currently completed 4th semester  
 
 ---
 
@@ -15,7 +15,7 @@
 
 ## 🔹 What I'm Doing Now
 - Practicing Data Structures & Algorithms
-- Building mini projects in Java
+- Building mini projects in Java,python,c++,c
 - Improving problem-solving skills
 
 ---

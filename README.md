@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Tushar%20Joshi&fontSize=72&fontColor=fff&animation=twinkling&fontAlignY=36&desc=CS%20Undergrad%20%E2%80%A2%20Backend%20Engineer%20in%20Progress%20%E2%80%A2%20Builder&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Tushar%20Joshi&fontSize=72&fontColor=fff&animation=twinkling&fontAlignY=36&desc=CS%20Undergrad%20%E2%80%A2%20Fullstack%20Engineer%20in%20Progress%20%E2%80%A2%20Builder&descAlignY=58&descSize=20" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Shipping+DailyFlow+%F0%9F%8C%8A;Building+FootballIQ+%E2%9A%BD;Read+the+field.+Make+the+decision.+Execute.;Currently+debugging+something..." />
 

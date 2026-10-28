@@ -1,6 +1,6 @@
 {
   "leetcode": {
-    "active_days": 80,
+    "active_days": 81,
     "calendar": {
       "2026-07-24": 1,
       "2026-08-01": 2,
@@ -81,9 +81,10 @@
       "2026-10-21": 1,
       "2026-10-22": 1,
       "2026-10-25": 1,
-      "2026-10-26": 1
+      "2026-10-26": 1,
+      "2026-10-27": 1
     },
-    "easy": 55,
+    "easy": 56,
     "hard": 27,
     "languages": [
       [
@@ -92,18 +93,18 @@
       ],
       [
         "C++",
-        64
+        65
       ]
     ],
     "max_streak": 27,
     "medium": 81,
-    "total": 163,
+    "total": 164,
     "year": 2026
   },
   "revora": {
-    "commits": 3,
+    "commits": 5,
     "date": "2026-10-27",
-    "message": "feat: complete durable recovery infrastructure and product surfaces",
-    "sha": "520a9fd"
+    "message": "feat: implement Phase 3.0 workspace foundation and demo isolation",
+    "sha": "4d43587"
   }
 }

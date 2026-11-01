@@ -104,9 +104,9 @@
     "year": 2026
   },
   "revora": {
-    "commits": 5,
-    "date": "2026-10-27",
-    "message": "feat: implement Phase 3.0 workspace foundation and demo isolation",
-    "sha": "4d43587"
+    "commits": 6,
+    "date": "2026-10-31",
+    "message": "feat: add Phase 3 workspace foundation and isolation checkpoint",
+    "sha": "0554b6e"
   }
 }
